@@ -6,7 +6,7 @@ public class Main {
         // Challenge
 
         // Create a byte variable and set it to any valid byte number
-        byte byteVariable = 2;
+        byte byteVariable = 5;
 
         // Create a short variable and set it to any valid short number
         short shortVariable = 3;
