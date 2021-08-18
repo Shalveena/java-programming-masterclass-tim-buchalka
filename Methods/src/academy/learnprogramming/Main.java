@@ -52,7 +52,7 @@ public class Main {
 
         // OR
 
-        int position = 4; // assuming position 4 woll be returned
+        int position = 4; // assuming position 4 will be returned
 
         if (playerScore >= 1000) {
             position = 1;
